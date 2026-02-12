@@ -1,11 +1,10 @@
 ---
 name: decision-velocity-framework
-description: Break through analysis paralysis and chronic organizational indecision
-  to enable forward movement while maintaining decision quality.
+description: Break through analysis paralysis and chronic organizational indecision to enable forward movement while maintaining decision quality.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - decision-velocity-framework
 - transformation
